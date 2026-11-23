@@ -1,0 +1,15 @@
+@import "tailwindcss";
+body {
+  margin: 0;
+  display: block;
+}
+
+#root {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  border: none;
+  text-align: left;
+  display: block;
+}
